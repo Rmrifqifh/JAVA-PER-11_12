@@ -1,2 +1,3 @@
 # JAVA-PER-11_12
-Latihan praktek Dasar Pemograman JAVA
+Latihan praktek Dasar Pemograman 
+A2.1900136 R MUHAMMAD RIFQI FEBRIAN HADIANA
